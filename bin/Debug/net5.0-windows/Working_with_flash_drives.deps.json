@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Working_with_flash_drives/1.0.0": {
+        "runtime": {
+          "Working_with_flash_drives.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Working_with_flash_drives/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
